@@ -7,7 +7,7 @@
 ### Input : 15
 ### Output : 0
 
-## Test Case 1 :
+## Test Case 2 :
 
 ### Input : 14
 ### Output : 1
