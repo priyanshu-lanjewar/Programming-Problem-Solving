@@ -12,4 +12,6 @@
 ### Input : 14
 ### Output : 1
 
-## Time Complexity of above Compution is O(n).
+## Time Complexity of above Computation using Normal Algorithm is O(n), where n is word length.
+## Time Complexity of above Computation using Brian Kernighan's Algorithm is O(k), where k is number of 1's in Word.
+
