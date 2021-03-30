@@ -11,3 +11,5 @@
 
 ### Input : 14
 ### Output : 1
+
+## Time Complexity of above Compution is O(n).
