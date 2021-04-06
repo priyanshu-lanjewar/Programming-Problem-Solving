@@ -12,7 +12,7 @@ public class SwapingBits {
     }
 
     public static void main(String[] args) {
-        System.out.println(0b0011 >>2);
+
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a  Number : ");
         long no = sc.nextLong();
