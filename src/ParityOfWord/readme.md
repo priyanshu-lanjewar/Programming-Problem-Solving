@@ -12,6 +12,8 @@
 ### Input : 14
 ### Output : 1
 
-## Time Complexity of above Computation using Normal Algorithm is O(n), where n is word length.
-## Time Complexity of above Computation using Brian Kernighan's Algorithm is O(k), where k is number of 1's in Word.
+## <li> Time Complexity of above Computation using Normal Algorithm is O(n), where n is word length.
+## <li> Time Complexity of above Computation using Brian Kernighan's Algorithm is O(k), where k is number of 1's in Word.
+## <li> Time Complexity of above Computation using LookUp Table method is O(n/L), where n world Length and L is width of word.
+## <li> Time Complexity of above Computation using XOR method is O(n), where n world Length.
 
