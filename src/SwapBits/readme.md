@@ -18,3 +18,6 @@
 57 <br>
 110011 <br>
 111001
+
+## The time complexity is 0(1), independent of the word size.
+
