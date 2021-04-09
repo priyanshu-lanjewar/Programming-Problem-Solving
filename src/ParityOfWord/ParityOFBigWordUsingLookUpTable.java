@@ -15,7 +15,7 @@ public class ParityOFBigWordUsingLookUpTable {
 
     public static short LookupTable(int val){
         return switch (val) {
-            case 1, 2 -> (short)1;
+            case 0b01, 0b10 -> (short)1;
             default -> (short)0;
         };
     }
